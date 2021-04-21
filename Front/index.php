@@ -5,7 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-<form action="index.html" method="get">
+<form action="../index.php" method="GET">
     <div class="mb-3">
         <label for="example" class="form-label">Ваша строка</label>
         <input type="text" class="form-control" id="example" name="text">
